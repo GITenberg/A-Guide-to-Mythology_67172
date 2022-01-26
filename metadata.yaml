@@ -1,5 +1,8 @@
 _repo: A-Guide-to-Mythology_67172
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67172-h/images/cover.jpg
 creator:
   author:
     agent_name: Clarke, Helen A. (Helen Archibald)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5638
     wikipedia: https://en.wikipedia.org/wiki/Helen_A._Clarke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67172#A-Guide-to-Mythology
 gutenberg_issued: '2022-01-15'
 identifiers:
   gutenberg: '67172'
